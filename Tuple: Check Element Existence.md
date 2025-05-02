@@ -10,8 +10,19 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+```
+x = ('a', 'e', 'i', 'o', 'u', 8, 4, 'n')
+
+print('n' in x)
+print(8 in x)
+```
 
 ## Output
+```
+True
+True
+```
 
 ## Result
+
+The program successfully checks for the existence of both 'n' and 8 in the tuple and prints the results.
