@@ -17,7 +17,7 @@ print('12' in a)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/d5dc3728-521f-4dc4-86e1-24b047185b36)
+![image](https://github.com/user-attachments/assets/f7900f1e-e734-4e3c-9976-9c86d4a8b79a)
 
 ## Result
 
